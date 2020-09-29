@@ -76,8 +76,8 @@
 							echo "<tr>";
 								echo "<td>$dorefno</td>";
 								echo "<td>$itemreceive</td>";
-								echo "<td>$$datereceive</td>";
-								echo "<td>$$suppliername</td>";
+								echo "<td>$datereceive</td>";
+								echo "<td>$suppliername</td>";
 								echo "<td>$namastaff</td>";
 								echo "<td>$staffid</td>";
 								echo "<td>$supplierid</td>";
