@@ -10,5 +10,5 @@
 			<li><a href="invoice.php">Penerimaan Invoice</a></li>
 			<li><a href="memo.php">Memo Pembayaran</a></li>
 			<li><a href="searchfield.php">Ruangan Carian</a></li>
-			<li><a href="logout.php">Log Keluar Masuk Dalam</a></li>
+			<li><a href="logout.php">Log Keluar Masuk</a></li>
 		</ul>
